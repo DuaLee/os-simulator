@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Operating System Simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Operating_System_Simulator_jar</output-path>
+    <root id="archive" name="Operating Systems.jar">
+      <element id="module-output" name="Operating Systems" />
+    </root>
+  </artifact>
+</component>
